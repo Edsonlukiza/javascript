@@ -1,3 +1,4 @@
+//to determine types using typeof
 let a=5;
 
-console.log(typeof"a");
+console.log(typeof a);
